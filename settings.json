@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kristal_smp-eI4M.aternos.me:50513",
+    "ip": "kristal_smp-eI4M.aternos.me",
     "port": 50513,
     "version": "",
     "try-creative": false
