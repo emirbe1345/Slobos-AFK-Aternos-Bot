@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "kristal_smp-eI4M.aternos.me:50513",
+    "port": 50513,
     "version": "",
     "try-creative": false
   },
